@@ -1,0 +1,77 @@
+{
+  "personalInfo": {
+    "name": "Efrén",
+    "title": "Desarrollador Web | Vue.js, TailwindsCSS, Flask y Django",
+    "age": 24,
+    "location": "La Orotava, Santa Cruz de Tenerife",
+    "photoUrl": "https://avatars.githubusercontent.com/u/186390076?v=4",
+    "summaryP1": "Joven desarrollador con foco en Front-end (Vue.js, Tailwind CSS) y Back-end (Flask, Django y Laravel).",
+    "summaryP2": "Dominio del inglés (B2 certificado). Experiencia en el IAC (Instituto de Astrofísica de Canarias) durante mayo de 2025.",
+    "summaryP3": "Apasionado por la informática, la música y los videojuegos."
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Proyecto de Prácticas durante mi estancia de IAC",
+      "description": "Desarrollo de un proyecto con Flask donde se capturan datos meteorológicos y se alojan en una aplicación, con actualizaciones en tiempo real.",
+      "link": "https://github.com/EfrenPM/Proyecto_IAC"
+    },
+    {
+      "id": 2,
+      "title": "Parte de XAMPP del proyecto del IAC",
+      "description": "Todo el sistema de alojamiento con XAMPP y PHP con el uso de Chart.js para realizar gráficos.",
+      "link": "https://github.com/EfrenPM/XAMPP_Practicas_IAC"
+    },
+    {
+      "id": 3,
+      "title": "Bash Excercises",
+      "description": "Ejercicios de práctica para aprender a utilizar Bash.",
+      "link": "https://github.com/EfrenPM/Scripting_Bash"
+    }
+  ],
+  "skills": [
+    {
+      "logo": "pi pi-code",
+      "nombre": "Vue.js",
+      "descripcion": "Creación de Single Page Applications (SPA) y composición de componentes.",
+      "nivel": 75
+    },
+    {
+      "logo": "pi pi-server",
+      "nombre": "Django",
+      "descripcion": "Creación e implementación de APIs funcionales en Django para la gestión de peticiones y datos.",
+      "nivel": 90
+    },
+    {
+      "logo": "pi pi-server",
+      "nombre": "Flask",
+      "descripcion": "Creación e implementación de APIs funcionales en Django para la gestión de peticiones y datos.",
+      "nivel": 60
+    },
+    {
+      "logo": "pi pi-palette",
+      "nombre": "Tailwind CSS",
+      "descripcion": "Diseño de interfaces modernas, responsive y optimizadas sin salir del HTML.",
+      "nivel": 65
+    },
+    {
+      "logo": "pi pi-github",
+      "nombre": "Git/GitHub",
+      "descripcion": "Control de versiones y flujo de trabajo colaborativo en equipo.",
+      "nivel": 85
+    }
+  ],
+  "experience": [
+    {
+      "puesto": "Desarrollador Frontend y Backend",
+      "empresa": "IAC",
+      "periodo": "Mayo 2025",
+      "descripcion": "Desarrollador de una API con Flask, haciendo uso de herramientas como Chart.js y XAMPP, así como lenguajes tales como HTML, CSS, Python, PHP y JavaScript."
+    }
+  ],
+  "contact": {
+    "email": "efreperez.m@gmail.com",
+    "github": "github.com/EfrenPM",
+    "linkedin": "://linkedin.com"
+  }
+}

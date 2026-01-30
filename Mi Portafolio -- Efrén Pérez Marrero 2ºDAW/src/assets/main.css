@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Esto asegura que incluso antes de cargar Vue, el fondo sea oscuro */
+html, body, #app {
+  background-color: #0f172a !important; /* Color slate-900 */
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
